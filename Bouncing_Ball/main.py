@@ -7,7 +7,7 @@ and watch it bounce.
 import pygame, sys
 
 # import Ball module
-from Ball_Physics import Ball
+from ball_physics import Ball
 
 
 

@@ -1,0 +1,1 @@
+To run the bouncing ball simulator, make sure all files are in the same directory and you have pygame installed. Run the main.py file and click anywhere on the GUI to add a new ball to the simulator. To quit, click the red 'x' in the upper corner or Cntrl+C in the terminal.
